@@ -2,6 +2,8 @@
 Smart Doc is a comprehensive Java-based Doctor Appointment Management System designed to streamline the booking, management, and tracking 
 of medical appointments. It provides tailored functionalities for patients, doctors, and admins, built using core Java concepts and backed by a robust relational database.
 
+---
+
  📌 Table of Contents
 
 - [🚀 Features](#-features)
@@ -15,7 +17,7 @@ of medical appointments. It provides tailored functionalities for patients, doct
 
 ---
 
- 🚀 Features
+ ## 🚀 Features
 
 - 🔐 User authentication with roles (Patient, Doctor, Admin)
 - 👨‍⚕️ Doctor profile management and availability slots
@@ -26,9 +28,11 @@ of medical appointments. It provides tailored functionalities for patients, doct
 - 📢 Notification system (Email, SMS, In-App)
 - ⭐ Doctor reviews and rating system
 
+
+---
 ```markdown
 
- 🗂️ Project Structure
+## 🗂️ Project Structure
 
 SmartDoc/
 │
