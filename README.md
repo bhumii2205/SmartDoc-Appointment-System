@@ -1,11 +1,8 @@
-
-
-```markdown
 # 🏥 Smart Doc - Doctor Appointment System
+Smart Doc is a comprehensive Java-based Doctor Appointment Management System designed to streamline the booking, management, and tracking 
+of medical appointments. It provides tailored functionalities for patients, doctors, and admins, built using core Java concepts and backed by a robust relational database.
 
-Smart Doc is a comprehensive Java-based Doctor Appointment Management System designed to streamline the booking, management, and tracking of medical appointments. It provides tailored functionalities for patients, doctors, and admins, built using core Java concepts and backed by a robust relational database.
-
-## 📌 Table of Contents
+ 📌 Table of Contents
 
 - [🚀 Features](#-features)
 - [🗂️ Project Structure](#️-project-structure)
@@ -18,7 +15,7 @@ Smart Doc is a comprehensive Java-based Doctor Appointment Management System des
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - 🔐 User authentication with roles (Patient, Doctor, Admin)
 - 👨‍⚕️ Doctor profile management and availability slots
@@ -29,11 +26,10 @@ Smart Doc is a comprehensive Java-based Doctor Appointment Management System des
 - 📢 Notification system (Email, SMS, In-App)
 - ⭐ Doctor reviews and rating system
 
----
+```markdown
 
-## 🗂️ Project Structure
+ 🗂️ Project Structure
 
-```bash
 SmartDoc/
 │
 ├── src/
@@ -87,13 +83,6 @@ The database includes the following main tables:
 - `medical_records`, `payments`, `insurance_providers`, `patient_insurance`
 - `reviews`, `notifications`, `specializations`, `doctor_specializations`
 
-🧾 See [`db/schema.sql`](./db/schema.sql) for the full schema.
-
----
-
-## 🖼️ ER Diagram
-
-![ER Diagram](./docs/ER-Diagram.png)
 
 The Entity-Relationship (ER) Diagram shows relationships between core entities:
 - 1-to-Many: One doctor can have many time slots
@@ -121,8 +110,8 @@ The Entity-Relationship (ER) Diagram shows relationships between core entities:
 ---
 
 
-```
-
----
-
-Let me know if you want to generate a **PDF version** or **add screenshots** or **auto-generate docs from your Java code**. I gotchu 🤝
+Developed by- 
+Bhoomika Kapde
+AMitkumar Racha
+Deepesh Srivastava
+Palak Sharma
